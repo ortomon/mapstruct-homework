@@ -2,8 +2,6 @@ package org.javaacademy.mapstruct_homework.dto;
 
 import lombok.Data;
 
-import java.time.LocalDate;
-
 @Data
 public class PersonInsuranceDto {
     private String fullName; //ФИО

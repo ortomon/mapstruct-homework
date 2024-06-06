@@ -11,8 +11,6 @@ import org.javaacademy.mapstruct_homework.entity.Passport;
 import org.javaacademy.mapstruct_homework.entity.Work;
 import org.javaacademy.mapstruct_homework.mapper.HumanMapper;
 import org.javaacademy.mapstruct_homework.mapper.HumanMapperImpl;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

@@ -1,6 +1,5 @@
 package org.javaacademy.mapstruct_homework.dto;
 
-import lombok.Builder;
 import lombok.Data;
 
 @Data
